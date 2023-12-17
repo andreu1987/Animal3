@@ -1,0 +1,34 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/andreu1987/Animal.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "worc"]
+	url = https://github.com/andreu1987/Animal3.git
+	fetch = +refs/heads/*:refs/remotes/worc/*
+[branch "homework1"]
+	remote = origin
+	merge = refs/heads/homework1
+[remote "test"]
+	url = https://github.com/andreu1987/nimal2.git
+	fetch = +refs/heads/*:refs/remotes/test/*
+[remote "test2"]
+	url = https://github.com/andreu1987/animal2.git
+	fetch = +refs/heads/*:refs/remotes/test2/*
+[branch "main"]
+	remote = test8
+	merge = refs/heads/main
+[remote "test5"]
+	url = https://github.com/andreu1987/AnimalFixed.git
+	fetch = +refs/heads/*:refs/remotes/test5/*
+[remote "test6"]
+	url = https://github.com/andreu1987/AnimalFixed2.git
+	fetch = +refs/heads/*:refs/remotes/test6/*
+[remote "test8"]
+	url = https://github.com/andreu1987/AnimalFixed2.git
+	fetch = +refs/heads/*:refs/remotes/test8/*

@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 d61c5db834d001d126b6e76f51e7ab12fdc2cccd andre <zahandr2011@mail.ru> 1687906164 +0300	commit (initial): Add homework 1
+d61c5db834d001d126b6e76f51e7ab12fdc2cccd d61c5db834d001d126b6e76f51e7ab12fdc2cccd andre <zahandr2011@mail.ru> 1687906415 +0300	checkout: moving from master to hw1
+d61c5db834d001d126b6e76f51e7ab12fdc2cccd d61c5db834d001d126b6e76f51e7ab12fdc2cccd andre <zahandr2011@mail.ru> 1689279824 +0300	checkout: moving from hw1 to homework1
+d61c5db834d001d126b6e76f51e7ab12fdc2cccd 0c1aa57c91b66b1b1aa23f0e1502de73f7931cf7 andre <zahandr2011@mail.ru> 1689279924 +0300	commit: On branch homework1
+0c1aa57c91b66b1b1aa23f0e1502de73f7931cf7 d61c5db834d001d126b6e76f51e7ab12fdc2cccd andre <zahandr2011@mail.ru> 1689280596 +0300	checkout: moving from homework1 to master
+d61c5db834d001d126b6e76f51e7ab12fdc2cccd 0c1aa57c91b66b1b1aa23f0e1502de73f7931cf7 andre <zahandr2011@mail.ru> 1689321466 +0300	checkout: moving from master to homework1
+0c1aa57c91b66b1b1aa23f0e1502de73f7931cf7 d61c5db834d001d126b6e76f51e7ab12fdc2cccd andre <zahandr2011@mail.ru> 1689324266 +0300	checkout: moving from homework1 to hw1
+d61c5db834d001d126b6e76f51e7ab12fdc2cccd ce1cc0493ac6e98dec3a624f88b1dd9a4f7394dd andre <zahandr2011@mail.ru> 1689324442 +0300	pull origin hw1: Fast-forward
+ce1cc0493ac6e98dec3a624f88b1dd9a4f7394dd 66d069a722a15c14b33e859d3257b37ecc0416a4 andre <zahandr2011@mail.ru> 1701120294 +0300	commit: first commit
+66d069a722a15c14b33e859d3257b37ecc0416a4 0000000000000000000000000000000000000000 andre <zahandr2011@mail.ru> 1701120321 +0300	Branch: renamed refs/heads/hw1 to refs/heads/main
+0000000000000000000000000000000000000000 66d069a722a15c14b33e859d3257b37ecc0416a4 andre <zahandr2011@mail.ru> 1701120321 +0300	Branch: renamed refs/heads/hw1 to refs/heads/main
+66d069a722a15c14b33e859d3257b37ecc0416a4 58d9fe9458722650a4f01e9e660457993dacd0aa andre <zahandr2011@mail.ru> 1701978429 +0300	commit: first commit
+58d9fe9458722650a4f01e9e660457993dacd0aa 0000000000000000000000000000000000000000 andre <zahandr2011@mail.ru> 1701978475 +0300	Branch: renamed refs/heads/main to refs/heads/main
+58d9fe9458722650a4f01e9e660457993dacd0aa 58d9fe9458722650a4f01e9e660457993dacd0aa andre <zahandr2011@mail.ru> 1701978475 +0300	Branch: renamed refs/heads/main to refs/heads/main
+58d9fe9458722650a4f01e9e660457993dacd0aa 1b471c87777df84973d261921993453e66e21da9 andre <zahandr2011@mail.ru> 1702500456 +0300	commit: first commit
+1b471c87777df84973d261921993453e66e21da9 0000000000000000000000000000000000000000 andre <zahandr2011@mail.ru> 1702500493 +0300	Branch: renamed refs/heads/main to refs/heads/main
+1b471c87777df84973d261921993453e66e21da9 1b471c87777df84973d261921993453e66e21da9 andre <zahandr2011@mail.ru> 1702500493 +0300	Branch: renamed refs/heads/main to refs/heads/main
